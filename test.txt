@@ -1,1 +1,0 @@
-ini adalah test pertama menggunakan VCS "Version Control System".
